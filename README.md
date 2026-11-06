@@ -24,27 +24,27 @@ Claude Desktop, Cursor, Windsurf or any client that supports remote MCP servers:
 
 | Tool | What it does |
 |---|---|
-| `draw_tarot_cards` | Draw tarot cards for a question using a chosen spread. |
-| `get_birth_chart` | Calculate a Western natal birth chart (tropical zodiac, Placidus houses): |
-| `get_transits` | Show where the planets are on a given date and the tightest aspects they make to a natal birth chart… |
-| `get_daily_cosmic_weather` | Get the planetary atmosphere for any date (default today): |
-| `check_compatibility` | Analyze multi-layered compatibility between two people using Pythagorean Life Path numerology and Western… |
-| `find_healing_frequency` | Suggest Solfeggio and tuning frequencies (eg 528 Hz, 432 Hz) for a listening or meditation goal such as… |
-| `calculate_numerology` | Calculate Pythagorean numerology numbers (life path, expression, soul urge, karmic debt) from a full birth… |
-| `plan_my_personal_year` | Calculate the numerology personal year for a calendar year and the personal month theme for each of its 12… |
-| `build_habit_stack` | Build a structured 30-day habit plan from a proven habit framework that fits the daily time budget (habits… |
-| `check_my_chakras` | A three-question reflective chakra check that suggests which energy center to focus on, with its traditional… |
-| `find_my_crystals` | Match crystals to an intention using a short questionnaire (life focus, challenge, chakra, placement, style). |
-| `search_yinyang_guides` | Search Yinyang Masters in-depth guides on habits, productivity, manifestation, crystals, chakras, astrology… |
-| `tuvi_chart_vn` | Lập lá số Tử Vi an sao thuần Việt đầy đủ 12 cung (Mệnh, Phụ, Phúc, Điền, Quan, Nô, Di, Tật, Tài, Tử, Phu Thê… |
-| `bazi_chart` | Lập lá số Bát Tự Tứ Trụ: |
-| `tuvi_horoscope` | Tính vận hạn Tử Vi: |
-| `karma_chart_read` | Luận giải Nghiệp Lực đa tầng kết hợp Tử Vi & Bát Tự: |
-| `karma_diagnose` | Chẩn đoán căn nguyên nghiệp quả từ mô tả tự nhiên của người dùng (khó khăn tài chính, hôn nhân, sức khỏe, oan… |
-| `decode_angel_number` | Interpret the spiritual symbolism and practical guidance behind angel numbers (111, 444, 777...), master… |
-| `write_manifestation_script` | Create an intentional manifestation ritual script tailored to a specific life focus (wealth, career… |
-| `build_productivity_plan` | Construct a rigorous daily productivity matrix tailored to your specific profession (software engineer… |
-| `find_guardian_angel` | Identify your lifelong Guardian Angel from the classical 72 Kabbalistic Angels (Shem HaMephorash tradition)… |
+| `draw_tarot_cards` | Draw tarot cards for a question with a chosen spread. |
+| `get_birth_chart` | Western natal chart: Sun, Moon, Rising, planets and houses. |
+| `get_transits` | Planet positions on a date and their tightest aspects to a natal chart. |
+| `get_daily_cosmic_weather` | Moon phase and planetary atmosphere for any date. |
+| `check_compatibility` | Compatibility of two people from numerology and astrology. |
+| `find_healing_frequency` | Solfeggio and tuning frequencies for a listening or meditation goal. |
+| `calculate_numerology` | Pythagorean numerology numbers from a full birth name and date. |
+| `plan_my_personal_year` | Numerology personal year and the 12 monthly themes. |
+| `build_habit_stack` | 30-day habit plan that fits your daily time budget. |
+| `check_my_chakras` | Three-question reflective chakra check. |
+| `find_my_crystals` | Match crystals to an intention with a short questionnaire. |
+| `search_yinyang_guides` | Search in-depth guides on habits, manifestation, crystals and astrology. |
+| `tuvi_chart_vn` | Vietnamese Tu Vi chart with all 12 palaces. |
+| `bazi_chart` | Bazi Four Pillars chart. |
+| `tuvi_horoscope` | Tu Vi 10-year, yearly and monthly cycles for a chosen date. |
+| `karma_chart_read` | Multi-layer karma reading combining Tu Vi and Bazi. |
+| `karma_diagnose` | Karma themes from a described life situation. |
+| `decode_angel_number` | Symbolism and guidance behind angel and master numbers. |
+| `write_manifestation_script` | Manifestation ritual script for a chosen life focus. |
+| `build_productivity_plan` | Daily productivity plan tailored to a profession. |
+| `find_guardian_angel` | Guardian Angel from the 72 angels of the Kabbalistic tradition. |
 
 ## Notes
 

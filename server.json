@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.gemral-edge/yinyang-masters",
+  "title": "Yinyang Masters",
+  "description": "Tarot, astrology, numerology, Tu Vi and Bazi tools plus guides on habits and manifestation.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/gemral-edge/yinyang-masters-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.yinyangmasters.com/api/mcp/claude"
+    }
+  ]
+}
